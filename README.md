@@ -11,6 +11,14 @@
 - [静态站 / Static site](https://moestone.cn/mengstone-site-reviews/)（GitHub Pages；HTTPS 已恢复）
 - [llms.txt](llms.txt)
 
+## 产品 / Products
+
+- [AI 星舰 / AI Starship](https://github.com/zhangxinshi/ai-starship) · [官网](https://markkit.mengstone.com/)
+- [战簿 WarBook](https://github.com/zhangxinshi/warbook) · [官网](https://warbook.mengstone.com/)
+- [灵镜 AURA](https://github.com/zhangxinshi/aura) · [官网](https://aura.mengstone.com/)
+- [LearnDojo](https://github.com/zhangxinshi/learndojo) · [官网](https://learn.mengstone.com/)
+- [ContractGen](https://github.com/zhangxinshi/contractgen) · [官网](https://contractgen.mengstone.com/)
+
 ## 这个仓库是什么 / What this is
 
 每个站点一个独立页面，包含中文完整测评和英文概览，方便中文读者阅读，也方便英文搜索命中。  
