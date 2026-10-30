@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://zhangxinshi.github.io/mengstone-site-reviews/sitemap.xml
+Sitemap: http://moestone.cn/mengstone-site-reviews/sitemap.xml
