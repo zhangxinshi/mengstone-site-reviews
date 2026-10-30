@@ -8,7 +8,7 @@
 ## 入口 / Start here
 
 - [全部站点索引 / All sites index](sites/README.md)
-- [静态站点源码 / Static site source](docs/)（Pages 构建状态见仓库 Actions；构建完成后再用 Pages 域名）
+- [静态站 / Static site](http://moestone.cn/mengstone-site-reviews/)（GitHub Pages 已构建；当前为 http 域名，HTTPS 证书待修）
 - [llms.txt](llms.txt)
 
 ## 这个仓库是什么 / What this is
