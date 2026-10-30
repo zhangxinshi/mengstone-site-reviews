@@ -1,11 +1,32 @@
-# MengStone 独立站实测合集
+# MengStone 站点实测合集 / Site Reviews
 
-> 本文由项目团队整理，不是独立第三方评测；文中链接指向官网。
-> 文中不包含流量、收入、排名或客户数据。
+> 147 个站点，每个站点一个中英双语页面。  
+> 147 sites, one bilingual page per site.
+>
+> **披露 / Disclosure:** 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
-共 84 个站点的实测介绍，按分册：
+## 入口 / Start here
 
-- [第 1 册](part1.md)
-- [第 2 册](part2.md)
-- [第 3 册](part3.md)
-- [第 4 册](part4.md)
+- [全部站点索引 / All sites index](sites/README.md)
+- [静态站点 / Static site](https://zhangxinshi.github.io/mengstone-site-reviews/)（需在仓库 Settings → Pages 启用 `/docs`）
+- [llms.txt](llms.txt)
+
+## 这个仓库是什么 / What this is
+
+每个站点一个独立页面，包含中文完整测评和英文概览，方便中文读者阅读，也方便英文搜索命中。  
+Each site has its own page with a full Chinese review and an English overview, so both Chinese and English readers can find the right page.
+
+## 收录范围 / Scope
+
+- 主站 / Main sites
+- 共享桶工具站 / Shared-bucket tool sites
+- 城市日历 / City calendars
+
+页面只写实测结构、适用场景、限制和官网入口；**不写流量、排名、收入或客户数据**。  
+Pages contain practical notes, limitations and official links only. No traffic, ranking, revenue or customer data is claimed.
+
+## 维护 / Maintenance
+
+- 页面由 `review_bot/build_github_pages.py` 生成
+- 根索引：`sites/README.md`
+- GitHub Pages 静态版：`docs/`
