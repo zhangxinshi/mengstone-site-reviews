@@ -1,6 +1,6 @@
 # 全部站点 / All Sites
 
-> 155 个站点，每个站点一个中英双语页面 / 155 bilingual pages.
+> 156 个站点，每个站点一个中英双语页面 / 156 bilingual pages.
 > 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
 | 中文页 / Chinese | English | 分类 / Category | 官网 / Official |
@@ -98,6 +98,7 @@
 | [星际补给站](supply.md) | Interstellar Supply Station | coupon · subsidy · free-tier · deals-navigation | <https://supply.mengstone.com/> |
 | [SVG2PNG](svgtopng.md) | SVG2PNG | 共享工具 / Tools | <https://svgtopng.mengstone.com/> |
 | [TimeBridge](timebridge.md) | TimeBridge | 共享工具 / Tools | <https://timebridge.mengstone.com/> |
+| [TimeCard](timecard.md) | TimeCard | 共享工具 / Tools | <https://timecard.mengstone.com/> |
 | [TimerLab](timer.md) | TimerLab | 共享工具 / Tools | <https://timer.mengstone.com/> |
 | [TimestampTool](timestamp.md) | TimestampTool | 共享工具 / Tools | <https://timestamp.mengstone.com/> |
 | [TipCalc](tipcalc.md) | TipCalc | 共享工具 / Tools | <https://tipcalc.mengstone.com/> |
