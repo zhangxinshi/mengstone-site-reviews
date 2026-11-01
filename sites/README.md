@@ -1,6 +1,6 @@
 # 全部站点 / All Sites
 
-> 157 个站点，每个站点一个中英双语页面 / 157 bilingual pages.
+> 158 个站点，每个站点一个中英双语页面 / 158 bilingual pages.
 > 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
 | 中文页 / Chinese | English | 分类 / Category | 官网 / Official |
@@ -116,6 +116,7 @@
 | [乌鲁木齐城市日历](urumqi.md) | Urumqi City Calendar | 共享工具 / Tools | <https://urumqi.mengstone.com/> |
 | [佛山城市日历](foshan.md) | Foshan City Calendar | 共享工具 / Tools | <https://foshan.mengstone.com/> |
 | [兰州城市日历](lanzhou.md) | Lanzhou City Calendar | 共享工具 / Tools | <https://lanzhou.mengstone.com/> |
+| [创业管理库](startupkit.md) | 创业管理库 | 共享工具 / Tools | <https://startupkit.mengstone.com/> |
 | [北京城市日历](beijing.md) | Beijing City Calendar | 共享工具 / Tools | <https://beijing.mengstone.com/> |
 | [南京城市日历](nanjing.md) | Nanjing City Calendar | 共享工具 / Tools | <https://nanjing.mengstone.com/> |
 | [南宁城市日历](nanning.md) | Nanning City Calendar | 共享工具 / Tools | <https://nanning.mengstone.com/> |
