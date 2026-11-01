@@ -30,6 +30,7 @@
 - [EtsyFee / EtsyFee](https://moestone.cn/mengstone-site-reviews/etsyfee/)
 - [FaviconForge / FaviconForge](https://moestone.cn/mengstone-site-reviews/favicon/)
 - [FinalGrade / FinalGrade](https://moestone.cn/mengstone-site-reviews/finalgrade/)
+- [FreelanceRate / FreelanceRate](https://moestone.cn/mengstone-site-reviews/freelancerate/)
 - [FuelCalc / FuelCalc](https://moestone.cn/mengstone-site-reviews/fuelcalc/)
 - [游库 GAMEHUB / GAMEHUB](https://moestone.cn/mengstone-site-reviews/game/)
 - [Headers Inspector / Headers Inspector](https://moestone.cn/mengstone-site-reviews/headers/)

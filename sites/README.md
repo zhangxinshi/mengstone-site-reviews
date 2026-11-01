@@ -1,6 +1,6 @@
 # 全部站点 / All Sites
 
-> 159 个站点，每个站点一个中英双语页面 / 159 bilingual pages.
+> 160 个站点，每个站点一个中英双语页面 / 160 bilingual pages.
 > 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
 | 中文页 / Chinese | English | 分类 / Category | 官网 / Official |
@@ -33,6 +33,7 @@
 | [EtsyFee](etsyfee.md) | EtsyFee | 共享工具 / Tools | <https://etsyfee.mengstone.com/> |
 | [FaviconForge](favicon.md) | FaviconForge | 共享工具 / Tools | <https://favicon.mengstone.com/> |
 | [FinalGrade](finalgrade.md) | FinalGrade | 共享工具 / Tools | <https://finalgrade.mengstone.com/> |
+| [FreelanceRate](freelancerate.md) | FreelanceRate | 共享工具 / Tools | <https://freelancerate.mengstone.com/> |
 | [FuelCalc](fuelcalc.md) | FuelCalc | 共享工具 / Tools | <https://fuelcalc.mengstone.com/> |
 | [游库 GAMEHUB](game.md) | GAMEHUB | steam · game-database · game-discovery · free-games | <https://game.mengstone.com/> |
 | [Headers Inspector](headers.md) | Headers Inspector | 共享工具 / Tools | <https://headers.mengstone.com/> |
