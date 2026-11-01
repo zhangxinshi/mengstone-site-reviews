@@ -52,6 +52,7 @@
 - [MacroForge / MacroForge](https://moestone.cn/mengstone-site-reviews/macro/)
 - [MarkdownPreview / MarkdownPreview](https://moestone.cn/mengstone-site-reviews/markdown/)
 - [AI 星舰 MarkKit / AI MarkKit](https://moestone.cn/mengstone-site-reviews/markkit/)
+- [MemeForge / MemeForge](https://moestone.cn/mengstone-site-reviews/memeforge/)
 - [MortgageCalc / MortgageCalc](https://moestone.cn/mengstone-site-reviews/mortgagecalc/)
 - [NetworkFix / NetworkFix](https://moestone.cn/mengstone-site-reviews/networkfix/)
 - [NetWorthCalc / NetWorthCalc](https://moestone.cn/mengstone-site-reviews/networth/)

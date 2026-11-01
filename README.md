@@ -1,7 +1,7 @@
 # MengStone 站点实测合集 / Site Reviews
 
-> 153 个站点，每个站点一个中英双语页面。  
-> 153 sites, one bilingual page per site.
+> 154 个站点，每个站点一个中英双语页面。  
+> 154 sites, one bilingual page per site.
 >
 > **披露 / Disclosure:** 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 

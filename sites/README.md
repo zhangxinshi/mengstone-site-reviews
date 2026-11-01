@@ -1,6 +1,6 @@
 # 全部站点 / All Sites
 
-> 153 个站点，每个站点一个中英双语页面 / 153 bilingual pages.
+> 154 个站点，每个站点一个中英双语页面 / 154 bilingual pages.
 > 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
 | 中文页 / Chinese | English | 分类 / Category | 官网 / Official |
@@ -55,6 +55,7 @@
 | [MacroForge](macro.md) | MacroForge | 共享工具 / Tools | <https://macro.mengstone.com/> |
 | [MarkdownPreview](markdown.md) | MarkdownPreview | 共享工具 / Tools | <https://markdown.mengstone.com/> |
 | [AI 星舰 MarkKit](markkit.md) | AI MarkKit | ai-tools · watermark · image-compress · pdf · convert · timezone · percent · directory | <https://markkit.mengstone.com/> |
+| [MemeForge](memeforge.md) | MemeForge | 共享工具 / Tools | <https://memeforge.mengstone.com/> |
 | [MortgageCalc](mortgagecalc.md) | MortgageCalc | 共享工具 / Tools | <https://mortgagecalc.mengstone.com/> |
 | [NetworkFix](networkfix.md) | NetworkFix | 共享工具 / Tools | <https://networkfix.mengstone.com/> |
 | [NetWorthCalc](networth.md) | NetWorthCalc | 共享工具 / Tools | <https://networth.mengstone.com/> |
