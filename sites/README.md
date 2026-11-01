@@ -1,6 +1,6 @@
 # 全部站点 / All Sites
 
-> 158 个站点，每个站点一个中英双语页面 / 158 bilingual pages.
+> 159 个站点，每个站点一个中英双语页面 / 159 bilingual pages.
 > 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
 | 中文页 / Chinese | English | 分类 / Category | 官网 / Official |
@@ -30,6 +30,7 @@
 | [DiffChecker](diffchecker.md) | DiffChecker | 共享工具 / Tools | <https://diffchecker.mengstone.com/> |
 | [DriverCheck](drivercheck.md) | DriverCheck | 共享工具 / Tools | <https://drivercheck.mengstone.com/> |
 | [DueDate](pregnancy.md) | DueDate | 共享工具 / Tools | <https://pregnancy.mengstone.com/> |
+| [EtsyFee](etsyfee.md) | EtsyFee | 共享工具 / Tools | <https://etsyfee.mengstone.com/> |
 | [FaviconForge](favicon.md) | FaviconForge | 共享工具 / Tools | <https://favicon.mengstone.com/> |
 | [FinalGrade](finalgrade.md) | FinalGrade | 共享工具 / Tools | <https://finalgrade.mengstone.com/> |
 | [FuelCalc](fuelcalc.md) | FuelCalc | 共享工具 / Tools | <https://fuelcalc.mengstone.com/> |
