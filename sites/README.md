@@ -1,6 +1,6 @@
 # 全部站点 / All Sites
 
-> 154 个站点，每个站点一个中英双语页面 / 154 bilingual pages.
+> 155 个站点，每个站点一个中英双语页面 / 155 bilingual pages.
 > 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
 | 中文页 / Chinese | English | 分类 / Category | 官网 / Official |
@@ -70,6 +70,7 @@
 | [PCSetup](pcsetup.md) | PCSetup | 共享工具 / Tools | <https://pcsetup.mengstone.com/> |
 | [PDFDelete](pdfdelete.md) | PDFDelete | 共享工具 / Tools | <https://pdfdelete.mengstone.com/> |
 | [PDFMerge](pdfmerge.md) | PDFMerge | 共享工具 / Tools | <https://pdfmerge.mengstone.com/> |
+| [PDFOCR](pdfocr.md) | PDFOCR | 共享工具 / Tools | <https://pdfocr.mengstone.com/> |
 | [PDFOrganizer](pdforganizer.md) | PDFOrganizer | 共享工具 / Tools | <https://pdforganizer.mengstone.com/> |
 | [PDFPageNumbers](pdfpagenumbers.md) | PDFPageNumbers | 共享工具 / Tools | <https://pdfpagenumbers.mengstone.com/> |
 | [PDFRotate](pdfrotate.md) | PDFRotate | 共享工具 / Tools | <https://pdfrotate.mengstone.com/> |

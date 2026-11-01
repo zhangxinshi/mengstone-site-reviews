@@ -67,6 +67,7 @@
 - [PCSetup / PCSetup](https://moestone.cn/mengstone-site-reviews/pcsetup/)
 - [PDFDelete / PDFDelete](https://moestone.cn/mengstone-site-reviews/pdfdelete/)
 - [PDFMerge / PDFMerge](https://moestone.cn/mengstone-site-reviews/pdfmerge/)
+- [PDFOCR / PDFOCR](https://moestone.cn/mengstone-site-reviews/pdfocr/)
 - [PDFOrganizer / PDFOrganizer](https://moestone.cn/mengstone-site-reviews/pdforganizer/)
 - [PDFPageNumbers / PDFPageNumbers](https://moestone.cn/mengstone-site-reviews/pdfpagenumbers/)
 - [PDFRotate / PDFRotate](https://moestone.cn/mengstone-site-reviews/pdfrotate/)
