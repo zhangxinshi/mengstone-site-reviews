@@ -88,6 +88,7 @@
 - [ScreenRecorder / ScreenRecorder](https://moestone.cn/mengstone-site-reviews/screenrecorder/)
 - [ScriptHub / ScriptHub](https://moestone.cn/mengstone-site-reviews/scripthub/)
 - [SigCraft / SigCraft](https://moestone.cn/mengstone-site-reviews/signature/)
+- [SignatureMaker / SignatureMaker](https://moestone.cn/mengstone-site-reviews/handsignature/)
 - [SleepCalc / SleepCalc](https://moestone.cn/mengstone-site-reviews/sleepcalc/)
 - [星际补给站 / Interstellar Supply Station](https://moestone.cn/mengstone-site-reviews/supply/)
 - [SVG2PNG / SVG2PNG](https://moestone.cn/mengstone-site-reviews/svgtopng/)

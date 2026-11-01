@@ -1,6 +1,6 @@
 # 全部站点 / All Sites
 
-> 152 个站点，每个站点一个中英双语页面 / 152 bilingual pages.
+> 153 个站点，每个站点一个中英双语页面 / 153 bilingual pages.
 > 本文由项目团队整理，不是独立第三方评测。Prepared by the project team; not an independent third-party review.
 
 | 中文页 / Chinese | English | 分类 / Category | 官网 / Official |
@@ -91,6 +91,7 @@
 | [ScreenRecorder](screenrecorder.md) | ScreenRecorder | 共享工具 / Tools | <https://screenrecorder.mengstone.com/> |
 | [ScriptHub](scripthub.md) | ScriptHub | 共享工具 / Tools | <https://scripthub.mengstone.com/> |
 | [SigCraft](signature.md) | SigCraft | 共享工具 / Tools | <https://signature.mengstone.com/> |
+| [SignatureMaker](handsignature.md) | SignatureMaker | 共享工具 / Tools | <https://handsignature.mengstone.com/> |
 | [SleepCalc](sleepcalc.md) | SleepCalc | 共享工具 / Tools | <https://sleepcalc.mengstone.com/> |
 | [星际补给站](supply.md) | Interstellar Supply Station | coupon · subsidy · free-tier · deals-navigation | <https://supply.mengstone.com/> |
 | [SVG2PNG](svgtopng.md) | SVG2PNG | 共享工具 / Tools | <https://svgtopng.mengstone.com/> |
