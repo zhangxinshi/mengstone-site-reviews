@@ -38,13 +38,14 @@ ul{padding-left:20px}
 <label style="margin-left:16px"><input type="checkbox" id="q-login"> 需要登录/支付/人审</label>
 <p><button type="button" onclick="estimate()" style="padding:10px 16px;background:#9a3412;color:#fff;border:0;border-radius:6px;font-weight:600;cursor:pointer">估算范围</button></p>
 <p id="q-out" class="muted">选一下，给你一个起步区间；最终以范围清单为准。</p>
+<p><a id="q-mail" href="#" style="display:none;padding:10px 16px;background:#0b6bcb;color:#fff;border-radius:6px;text-decoration:none;font-weight:600">把范围发给我 →</a></p>
 </div>
 <script>
 function estimate(){
   var base=parseInt(document.getElementById('q-pages').value,10);
   var login=document.getElementById('q-login').checked?2000:0;
   var low=base+login, high=Math.round((base+login)*1.6);
-  document.getElementById('q-out').textContent='起步区间：¥'+low+' – ¥'+high+'；不含账号/支付/实名代操作，最终按范围清单报价。';
+  var pages=document.getElementById('q-pages').selectedOptions[0].textContent; var need=document.getElementById('q-login').checked?'需要登录/支付/人审':'不需要登录/支付']; var msg='你好，我想咨询：'+pages+'；'+need+'；请给范围与报价。'; var a=document.getElementById('q-mail'); a.href='mailto:1223058191@qq.com?subject='+encodeURIComponent('建站/自动化代做咨询')+'&body='+encodeURIComponent(msg); a.style.display='inline-block'; document.getElementById('q-out').textContent='起步区间：¥'+low+' – ¥'+high+'；不含账号/支付/实名代操作，最终按范围清单报价。';
 }
 </script><h2>套餐</h2>
 <table><tbody>
